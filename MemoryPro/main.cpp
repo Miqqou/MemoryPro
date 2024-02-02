@@ -1,11 +1,5 @@
 /* Memory game with graphical user interface
 *
-* Description:
-* The program takes inputs from the user about the number of players and cards. In the program
-* there are also push buttons that the user can press to give commands to the program.
-* The program includes a memory game, more about the rules and instructions
-* in the instructions.txt file.
-*
 * Creator:
 * miqqou @ GitHub
 *
