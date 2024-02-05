@@ -1,4 +1,4 @@
-MemoryPro is an "endless" card pair memory game! Originally implemented for "software development 2" -course of Tampere University. It has then been updated to support 26 000+ pairs of cards with concurrency design and better ui.
+MemoryPro is an "endless" card pair memory game! Originally implemented as a basic pairs card memory game for "software development 2" -course of Tampere University. It has then been updated to support 26 000+ pairs of cards with concurrency design and better ui.
 
 <img src='updated.png' width='800'>
 Picture 1. Updated version of the game.
